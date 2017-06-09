@@ -11,8 +11,8 @@
     <div class="" style="margin: 10px 20px">
       <div>
 		<div>
-		  <a class="btn btn-danger pull-right" href="http://api10.verificationcode.net/order?token=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d&reseller"><b>(NEW)</b> Click here to resell your numbers to others!</a>
-                  <a class="btn btn-default pull-right" href="http://api10.verificationcode.net/order?token=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d&clear">Clear</a>
+		  <a class="btn btn-danger pull-right" href="http://api10.verificationcode.net/api/get_sms?token=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d"><b>(NEW)</b> Click here to resell your numbers to others!</a>
+                  <a class="btn btn-default pull-right" href="http://api10.verificationcode.net/api/get_sms?token=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d">Clear</a>
 		  <h3>Basic Information of Your Order </h3>
 		</div>
         <hr>
