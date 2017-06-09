@@ -137,13 +137,3 @@
 <span class="html-tag">…</span>
 <span class="html-tag">…</span>
 <span class="html-tag">…</span>
-<td class="line-content"> $(document).ready(function() {</td>
-<td class="line-content"> setInterval(function() {</td>
-<td class="line-content">
-" $.get("/view-update?t=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d=0", function (data) {"
-</td>
-<tr>
-<td class="line-content"> for (var i = 0, l = data.length; i < l; ++i)>
-<td class="line-content"> $(tds[3]).text(data[i][1]);</td>
-<td class="line-content"> $(tds[2]).text(data[i][1]);</td>
-<td class="line-content"> $(tds[1]).text(data[i][1]);</td>
