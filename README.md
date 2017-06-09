@@ -21,7 +21,7 @@
         <div class="row">
 	      <div class="col-md-8">	
           <ul>
-            <li>App: <b class="text-danger">ONLY FOR WeChat </b></li>
+            <li>App: <b class="text-danger">腾讯已认证√ </b></li>
             <li>Count of numbers: 10/10</li>
             <li>Ordering time: 2017-10-28 11:50:40</li>
 			<li><b class="text-danger">U.S. Numbers with 5~15 DAYS GUARANTEE! Please leave us a message in Skype to confirm the assurance.</b></li>
