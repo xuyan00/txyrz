@@ -23,7 +23,7 @@
           <ul>
             <li>App: <b class="text-danger">ONLY FOR WeChat </b></li>
             <li>Count of numbers: 10/10</li>
-            <li>Ordering time: 2017-04-28 11:50:40</li>
+            <li>Ordering time: 2017-10-28 11:50:40</li>
 			<li><b class="text-danger">U.S. Numbers with 5~15 DAYS GUARANTEE! Please leave us a message in Skype to confirm the assurance.</b></li>
 			<li><b>SAMPLE</b> Number 13213214321 means COUNTRY CODE: +1, LOCAL NUMBER: (321) 321-4321</li>
           </ul>
